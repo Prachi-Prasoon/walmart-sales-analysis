@@ -24,7 +24,7 @@ End-to-end analysis of Walmart retail sales data using Pandas, PostgreSQL, and P
 
 ---
 
-## 📊 Business Insights (via SQL)
+## Business Insights (via SQL)
 
 - Most used payment methods and quantity sold
 - Busiest day for each branch
@@ -34,7 +34,7 @@ End-to-end analysis of Walmart retail sales data using Pandas, PostgreSQL, and P
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 - Total sales by product  category
 - Sales by weekday and hour
